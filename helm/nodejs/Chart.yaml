@@ -4,6 +4,6 @@ description: An example Node.js application with no database. For more informati
 keywords:
 - quickstart
 - nodejs
-home: https://access.redhat.com
+home: https://github.com/joeslow/nodejs-ex
 sources:
-- https://github.com/sclorg/nodejs-ex
+- https://github.com/joeslow/nodejs-ex.git

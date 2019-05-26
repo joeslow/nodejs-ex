@@ -1,7 +1,7 @@
 {
   "name": "nodejs-ex",
   "version": "0.0.1",
-  "description": "Node.js sample app for OpenShift 3",
+  "description": "Node.js sample app for OpenShift 3 - forked from https://github.com/sclorg/nodejs-ex",
   "main": "server.js",
   "dependencies": {
     "chai": "^3.5.0",
@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/sclorg/nodejs-ex.git"
+    "url": "https://github.com/joeslow/nodejs-ex.git"
   },
-  "author": "Steve Speicher <sspeiche@gmail.com>",
+  "author": "Jörg Erdmenger <joerge@gmail.com>",
   "license": "CC-BY-1.0",
   "bugs": {
-    "url": "http://github.com/sclorg/nodejs-ex/issues"
+    "url": "https://github.com/joeslow/nodejs-ex/issues"
   },
-  "homepage": "http://github.com/sclorg/nodejs-ex"
+  "homepage": "https://github.com/joeslow/nodejs-ex"
 }
